@@ -1,2 +1,4 @@
-# Projects and Presentations
+
+Presentations on Business Analysis, Data warehousing,Scrum
+
 
